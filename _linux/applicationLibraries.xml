@@ -1,35 +1,33 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (ad-gallery) interpreter library">
+    <library name="Python 2.7 (ad-gallery-2) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/ad-gallery/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/envs/ad-gallery/src/pyql" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/envs/ad-gallery/src/iql" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/envs/ad-gallery/src/ipython-ish" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/577279117" />
+        <root url="file://$USER_HOME$/.pyenv/versions/ad-gallery-2/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/ad-gallery-2/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.16/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.16/lib/python2.7/plat-linux2" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.16/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/ad-gallery-2/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/609148744" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/ad-gallery/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/envs/ad-gallery/src/pyql" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/envs/ad-gallery/src/iql" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/envs/ad-gallery/src/ipython-ish" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/577279117" />
+        <root url="file://$USER_HOME$/.pyenv/versions/ad-gallery-2/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/ad-gallery-2/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.16/lib/python2.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.16/lib/python2.7/plat-linux2" />
+        <root url="file://$USER_HOME$/.pyenv/versions/2.7.16/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.pyenv/versions/ad-gallery-2/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/609148744" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
