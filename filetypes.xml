@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="idf" type="PLAIN_TEXT" />
       <mapping ext="soy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
