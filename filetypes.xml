@@ -4,9 +4,6 @@
       <removed_mapping ext="soy" type="Closure template file" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".jenkinsfile" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="idf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
