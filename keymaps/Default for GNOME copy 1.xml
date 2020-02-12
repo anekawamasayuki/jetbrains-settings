@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="StringManipulation.Sort">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+</keymap>
