@@ -3,10 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,9 +20,9 @@
     <mask>*.py</mask>
     <mask>*.java\</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.soy</mask>
     <mask>*.tsx</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
